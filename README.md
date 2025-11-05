@@ -18,7 +18,7 @@ Alma is divided up into a bunch of different sub-packages:
 
 ### Graph
 
-Core implementation of the Node graph implementation. This was the first implementation of what later became known as the [Nodl framework](https://github.com/emilwidlund/nodl).
+Core implementation of the Node graph implementation. This was the first implementation of what later became known as the [Nodl framework](https://github.com/juni-eng/nodl).
 
 ### WebGL
 
