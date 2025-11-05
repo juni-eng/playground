@@ -1,8 +1,8 @@
-# Alma
+# Playground
 
 ![](static/cover.png)
 
-Alma is an interactive playground for generative graphics. 
+Playground is an interactive playground for generative graphics. 
 
 It comes with a unique node-based editor for WebGL experiences, and a layer-based renderer which can mix graph layers with raw GLSL-based layers.
 
@@ -14,7 +14,7 @@ Nominated for "Fun Side Project of the Year" at React Open Source Awards 2023.
 
 ## Packages
 
-Alma is divided up into a bunch of different sub-packages:
+Playground is divided up into a bunch of different sub-packages:
 
 ### Graph
 
@@ -34,4 +34,4 @@ The web application which hosts the client.
 
 ### Renderer
 
-Alma's internal renderer.
+Playground's internal renderer.
