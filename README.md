@@ -22,7 +22,7 @@ Core implementation of the Node graph implementation. This was the first impleme
 
 ### WebGL
 
-The WebGL implementation of Alma. Contains the nodes and compiler which produces the final WebGL program.
+The WebGL implementation of Playground. Contains the nodes and compiler which produces the final WebGL program.
 
 ### GLSL
 
